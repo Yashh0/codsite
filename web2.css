@@ -1,0 +1,51 @@
+.heading0{
+    font-size: 50px;
+    background-color: #1f2833;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+}
+
+.heading1{
+    font-size: x-large;
+    color: aliceblue;
+    text-align:center;
+    background-color: #1f2833;}
+.text-box{
+    display: inline-block;
+    border: 1px solid rgb(146, 32, 32);
+    padding: 13px 34px;
+    color: rgb(139, 39, 39);
+    position: absolute;
+  top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    background-color: aqua;
+
+}
+
+.text-box2{
+    display: inline-block;
+    border: 1px solid rgb(146, 32, 32);
+    padding: 13px 34px;
+    color: rgb(139, 39, 39);
+    position: absolute;
+  top: 89%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    background-color: aqua;
+
+}
+.hero-btn{
+   
+    text-decoration: none;
+    color: rgb(124, 30, 30);
+   
+   
+    font-size: 13px;
+    background-color: transparent;
+   
+    cursor: pointer;
+}
